@@ -1,0 +1,18 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+
+### Jupyter Notebook ###
+.ipynb_checkpoints
+
+###################
+### Page Assets ###
+###################
+
+### NodeJS ###
+node_modules/
+package-lock.json
+
+# live sass compiler
+*.css.map
