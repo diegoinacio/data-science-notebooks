@@ -1,3 +1,5 @@
 # Data Science Notebooks
 
-Visit the repository [index page](https://diegoinacio.github.io/data-science-notebooks/).
+[![Data Science Notebooks](social-preview.png)](https://diegoinacio.github.io/data-science-notebooks/)
+
+Visit the repository's [index page](https://diegoinacio.github.io/data-science-notebooks/).
