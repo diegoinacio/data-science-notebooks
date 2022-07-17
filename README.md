@@ -1,6 +1,6 @@
 # Data Science Notebooks
 
-[![Data Science Notebooks](social-preview.png)](https://diegoinacio.github.io/data-science-notebooks/)
+[![Data Science Notebooks](docs/assets/images/social-preview.png)](https://diegoinacio.github.io/data-science-notebooks/)
 
 This is an `authorial collection` of fundamental _python recipes_ in notebook format. I started this project with the sole purpose of helping people to understand **Data Science** and **Statistics** concepts as clearly and succinctly as I could.
 
