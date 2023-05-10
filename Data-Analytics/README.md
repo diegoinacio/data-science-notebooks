@@ -1,3 +1,3 @@
 # Data Analytics
 
-Best practices in _data analysis_ and the main methods of _advanced analytics_.
+Key concepts in _data analysis_ and useful practices in the daily routine of a _data scientist_.
